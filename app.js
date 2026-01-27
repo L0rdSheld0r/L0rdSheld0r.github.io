@@ -6,4 +6,12 @@ function loadPage(page) {
     });
 }
 
-loadPage("home");
+// On first load:
+const page = location.hash.replace("#", "") || "home";
+loadPage(page);
+
+// Back/forward buttons
+window.onpopstate = () => {
+  const page = location.hash.replace("#", "") || "home";
+  loadPage(page);
+};
