@@ -20,6 +20,11 @@ function loadPage(page) {
     });
 }
 
+window.addEventListener("popstate", (event) => {
+  const page = (event.state && event.state.page) || "home";
+  loadPage(page, false); // false → nicht erneut in History pushen
+});
+
 
 function initRoulette() {
   const roulette = document.querySelector(".roulette");
