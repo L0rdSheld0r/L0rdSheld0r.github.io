@@ -26,10 +26,11 @@ jobs:
             "https://id.twitch.tv/oauth2/token?client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials" \
             | jq -r '.access_token')
 
-          # Read talents from file
-          TALENTS_FILE=".github/workflows/twitch_talents.txt"
+           # New talent list location
+          TALENTS_FILE=".github/data/twitch_talents.txt"
+          OUTPUT_FILE=".github/data/twitch_stats.json"
 
-          echo '{ "talents": [' > twitch_stats.json
+          echo '{ "talents": [' > "$OUTPUT_FILE"
 
           while IFS= read -r NAME || [ -n "$NAME" ]; do
             NAME=$(echo "$NAME" | xargs)  # trim whitespace
@@ -59,22 +60,22 @@ jobs:
               -H "Authorization: Bearer $TOKEN" \
               | jq '.data')
 
-            # Append talent data to JSON
+            # Append talent data
             echo "{
               \"username\": \"$NAME\",
               \"followers\": $FOLLOWERS,
               \"videos\": $VIDEOS
-            }," >> twitch_stats.json
+            }," >> "$OUTPUT_FILE"
 
           done < "$TALENTS_FILE"
 
           # Remove trailing comma and close JSON
-          sed -i '$ s/,$//' twitch_stats.json
-          echo ']}' >> twitch_stats.json
+          sed -i '$ s/,$//' "$OUTPUT_FILE"
+          echo ']}' >> "$OUTPUT_FILE"
 
-          # Commit and push
+          # Commit & push
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add twitch_stats.json
+          git add "$OUTPUT_FILE"
           git commit -m "Update Twitch stats"
           git push
