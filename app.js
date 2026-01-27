@@ -19,12 +19,14 @@ function loadPage(page) {
 // default: Home laden
 loadPage("home");
 
+function initRoulette() {
+  const roulette = document.querySelector(".roulette");
+  if (!roulette) return;
 
-const track = document.querySelector(".roulette-track");
-const cards = document.querySelectorAll(".card");
-
-function spin() {
-  const index = Math.floor(Math.random() * cards.length);
-  const offset = index * 220; // card width + gap
-  track.style.transform = `translateX(-${offset}px)`;
+  // Mausrad horizontal scrollen
+  roulette.addEventListener("wheel", (e) => {
+    e.preventDefault();
+    roulette.scrollLeft += e.deltaY;
+  });
 }
+
