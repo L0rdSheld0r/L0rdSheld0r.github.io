@@ -6,7 +6,7 @@ function updateFollowers(container) {
     return;
   }
 
-  fetch(".github/data/twitch_stats.json")
+  fetch("data/twitch_stats.json")
     .then(r => {
       if (!r.ok) throw new Error("Cannot fetch JSON");
       return r.json();
