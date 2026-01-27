@@ -2,7 +2,46 @@
 {
     "username": "L0rdSheld0r",
     "followers": 443,
-    "videos": []
+    "videos": [
+  {
+    "id": "2680828242",
+    "stream_id": "315930333415",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "Montag der schlimmste Tag der Woche! || 2026#3 !socials",
+    "description": "",
+    "created_at": "2026-01-26T16:53:01Z",
+    "published_at": "2026-01-26T16:53:01Z",
+    "url": "https://www.twitch.tv/videos/2680828242",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/14203c5bb82322b65022_l0rdsheld0r_315930333415_1769446375//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 52,
+    "language": "de",
+    "type": "archive",
+    "duration": "6h32m10s",
+    "muted_segments": null
+  },
+  {
+    "id": "2672572003",
+    "stream_id": "315824733543",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "WoW entspannt || 2026#2 !socials",
+    "description": "",
+    "created_at": "2026-01-17T16:38:10Z",
+    "published_at": "2026-01-17T16:38:10Z",
+    "url": "https://www.twitch.tv/videos/2672572003",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/fb3a82a6a223dcdf90d0_l0rdsheld0r_315824733543_1768667883//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 36,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h57m10s",
+    "muted_segments": null
+  }
+]
   },
 {
     "username": "Zornkoenigin",
