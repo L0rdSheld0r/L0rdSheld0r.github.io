@@ -26,36 +26,53 @@ jobs:
             "https://id.twitch.tv/oauth2/token?client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials" \
             | jq -r '.access_token')
 
-          USERNAME="YOUR_TWITCH_USERNAME"
+          # Read talents from file
+          TALENTS_FILE=".github/workflows/twitch_talents.txt"
 
-          echo "Getting user id..."
-          USER=$(curl -s \
-            "https://api.twitch.tv/helix/users?login=$USERNAME" \
-            -H "Client-ID: $CLIENT_ID" \
-            -H "Authorization: Bearer $TOKEN")
+          echo '{ "talents": [' > twitch_stats.json
 
-          USER_ID=$(echo $USER | jq -r '.data[0].id')
+          while IFS= read -r NAME || [ -n "$NAME" ]; do
+            NAME=$(echo "$NAME" | xargs)  # trim whitespace
+            [ -z "$NAME" ] && continue    # skip empty lines
 
-          echo "Getting followers..."
-          FOLLOWERS=$(curl -s \
-            "https://api.twitch.tv/helix/channels/followers?broadcaster_id=$USER_ID" \
-            -H "Client-ID: $CLIENT_ID" \
-            -H "Authorization: Bearer $TOKEN" \
-            | jq -r '.total')
+            echo "Processing $NAME..."
 
-          echo "Getting last streams..."
-          VIDEOS=$(curl -s \
-            "https://api.twitch.tv/helix/videos?user_id=$USER_ID&type=archive&first=5" \
-            -H "Client-ID: $CLIENT_ID" \
-            -H "Authorization: Bearer $TOKEN")
+            # Get user ID
+            USER=$(curl -s \
+              "https://api.twitch.tv/helix/users?login=$NAME" \
+              -H "Client-ID: $CLIENT_ID" \
+              -H "Authorization: Bearer $TOKEN")
 
-          echo "Saving JSON..."
-          echo "{
-            \"username\": \"$USERNAME\",
-            \"followers\": $FOLLOWERS,
-            \"videos\": $(echo $VIDEOS | jq '.data')
-          }" > twitch_stats.json
+            USER_ID=$(echo $USER | jq -r '.data[0].id')
 
+            # Get follower count
+            FOLLOWERS=$(curl -s \
+              "https://api.twitch.tv/helix/channels/followers?broadcaster_id=$USER_ID" \
+              -H "Client-ID: $CLIENT_ID" \
+              -H "Authorization: Bearer $TOKEN" \
+              | jq -r '.total')
+
+            # Get last 5 streams (archives)
+            VIDEOS=$(curl -s \
+              "https://api.twitch.tv/helix/videos?user_id=$USER_ID&type=archive&first=5" \
+              -H "Client-ID: $CLIENT_ID" \
+              -H "Authorization: Bearer $TOKEN" \
+              | jq '.data')
+
+            # Append talent data to JSON
+            echo "{
+              \"username\": \"$NAME\",
+              \"followers\": $FOLLOWERS,
+              \"videos\": $VIDEOS
+            }," >> twitch_stats.json
+
+          done < "$TALENTS_FILE"
+
+          # Remove trailing comma and close JSON
+          sed -i '$ s/,$//' twitch_stats.json
+          echo ']}' >> twitch_stats.json
+
+          # Commit and push
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add twitch_stats.json
