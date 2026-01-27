@@ -1,3 +1,7 @@
+
+// default: Home laden
+loadPage("home");
+
 function loadPage(page) {
   let path;
 
@@ -16,8 +20,6 @@ function loadPage(page) {
     });
 }
 
-// default: Home laden
-loadPage("home");
 
 function initRoulette() {
   const roulette = document.querySelector(".roulette");
