@@ -1,5 +1,6 @@
-body {
-  background-colour: #212121;
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 .roulette {
