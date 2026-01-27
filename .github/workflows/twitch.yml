@@ -1,0 +1,57 @@
+name: Update Twitch Stats
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # once per day
+  workflow_dispatch:      # manual run button
+
+jobs:
+  twitch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install tools
+        run: sudo apt-get install -y curl jq
+
+      - name: Get Twitch token and stats
+        env:
+          CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: |
+          echo "Getting access token..."
+          TOKEN=$(curl -s -X POST \
+            "https://id.twitch.tv/oauth2/token?client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials" \
+            | jq -r '.access_token')
+
+          echo "Token: $TOKEN"
+
+          USERNAME="L0rdSheld0r"
+
+          echo "Getting user id..."
+          USER=$(curl -s \
+            "https://api.twitch.tv/helix/users?login=$USERNAME" \
+            -H "Client-ID: $CLIENT_ID" \
+            -H "Authorization: Bearer $TOKEN")
+
+          USER_ID=$(echo $USER | jq -r '.data[0].id')
+
+          echo "User ID: $USER_ID"
+
+          echo "Getting followers..."
+          FOLLOWERS=$(curl -s \
+            "https://api.twitch.tv/helix/channels/followers?broadcaster_id=$USER_ID" \
+            -H "Client-ID: $CLIENT_ID" \
+            -H "Authorization: Bearer $TOKEN" \
+            | jq -r '.total')
+
+          echo "Saving to file..."
+          echo "{ \"username\": \"$USERNAME\", \"followers\": $FOLLOWERS }" > twitch_stats.json
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add twitch_stats.json
+          git commit -m "Update Twitch stats"
+          git push
