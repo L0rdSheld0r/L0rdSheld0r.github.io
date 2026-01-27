@@ -24,14 +24,14 @@ body {
   padding: 20px;
 }
 
+/* Fixed width Cards so dass max 3 sichtbar */
 .card {
-  min-width: 200px;
+  flex: 0 0 calc((100% - 40px*2)/3); /* 3 Cards, 2 gaps of 20px each */
   height: 200px;
   scroll-snap-align: start;
   cursor: pointer;
   border-radius: 12px;
   overflow: hidden;
-  flex-shrink: 0;
   transition: transform 0.2s;
 }
 
@@ -44,4 +44,12 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+/* Optional: mobile kleiner Höhe */
+@media (max-width: 768px) {
+  .card {
+    height: 150px;
+  }
+}
+
 
