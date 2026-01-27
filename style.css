@@ -12,22 +12,31 @@ body {
 
 .roulette {
   width: 100%;
-  overflow: hidden;
-  border: 2px solid #333;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
 }
 
 .roulette-track {
   display: flex;
   gap: 20px;
-  transition: transform 0.6s ease;
+  padding: 20px;
 }
 
 .card {
   min-width: 200px;
   height: 200px;
+  scroll-snap-align: start;
   cursor: pointer;
   border-radius: 12px;
   overflow: hidden;
+  flex-shrink: 0;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
 }
 
 .card img {
@@ -35,3 +44,4 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
