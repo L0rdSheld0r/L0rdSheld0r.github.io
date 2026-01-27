@@ -28,7 +28,7 @@ jobs:
 
            # New talent list location
           TALENTS_FILE=".github/data/twitch_talents.txt"
-          OUTPUT_FILE=".github/data/twitch_stats.json"
+          OUTPUT_FILE="data/twitch_stats.json"
 
           echo '{ "talents": [' > "$OUTPUT_FILE"
 
