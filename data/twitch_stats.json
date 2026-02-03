@@ -45,8 +45,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26548,
+    "followers": 26551,
     "videos": [
+  {
+    "id": "2687805686",
+    "stream_id": "316019407591",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !elgato | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood",
+    "description": "",
+    "created_at": "2026-02-03T08:11:04Z",
+    "published_at": "2026-02-03T08:11:04Z",
+    "url": "https://www.twitch.tv/videos/2687805686",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/147a9286a90f5c6bc5f0_zornkoenigin_316019407591_1770106257//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 11,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h19m10s",
+    "muted_segments": null
+  },
   {
     "id": "2686952736",
     "stream_id": "316238126566",
@@ -60,7 +79,7 @@
     "url": "https://www.twitch.tv/videos/2686952736",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/96167da508b13e6840ea_zornkoenigin_316238126566_1770020499//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 6,
+    "view_count": 2189,
     "language": "de",
     "type": "archive",
     "duration": "4h5m0s",
@@ -79,7 +98,7 @@
     "url": "https://www.twitch.tv/videos/2684189507",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/f1ab9a094c1ae1b3d0e6_zornkoenigin_316201560294_1769769532//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1952,
+    "view_count": 1953,
     "language": "de",
     "type": "archive",
     "duration": "3h18m40s",
@@ -121,25 +140,6 @@
     "language": "de",
     "type": "archive",
     "duration": "5h33m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2681504458",
-    "stream_id": "316095825509",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !elgato | !ankerkraut | !turtlebeach | !hitech | !holzkern | !yfood",
-    "description": "",
-    "created_at": "2026-01-27T08:51:04Z",
-    "published_at": "2026-01-27T08:51:04Z",
-    "url": "https://www.twitch.tv/videos/2681504458",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/e4510eca34391b190094_zornkoenigin_316095825509_1769503857//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2315,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h44m10s",
     "muted_segments": null
   }
 ]
