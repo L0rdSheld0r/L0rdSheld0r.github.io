@@ -4,6 +4,25 @@
     "followers": 444,
     "videos": [
   {
+    "id": "2689988721",
+    "stream_id": "316051240167",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "Korzer Streami - WoW - Get TBC Ready [Thunderstrike]  || 2026#8 !socials in den",
+    "description": "",
+    "created_at": "2026-02-05T21:48:46Z",
+    "published_at": "2026-02-05T21:48:46Z",
+    "url": "https://www.twitch.tv/videos/2689988721",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/c514d0ee5ffe1abb5d41_l0rdsheld0r_316051240167_1770328119//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 7,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h1m30s",
+    "muted_segments": null
+  },
+  {
     "id": "2688173777",
     "stream_id": "316026052199",
     "user_id": "39733528",
@@ -78,32 +97,32 @@
     "type": "archive",
     "duration": "4h48m30s",
     "muted_segments": null
-  },
-  {
-    "id": "2680828242",
-    "stream_id": "315930333415",
-    "user_id": "39733528",
-    "user_login": "l0rdsheld0r",
-    "user_name": "L0rdSheld0r",
-    "title": "Montag der schlimmste Tag der Woche! || 2026#3 !socials",
-    "description": "",
-    "created_at": "2026-01-26T16:53:01Z",
-    "published_at": "2026-01-26T16:53:01Z",
-    "url": "https://www.twitch.tv/videos/2680828242",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/14203c5bb82322b65022_l0rdsheld0r_315930333415_1769446375//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 66,
-    "language": "de",
-    "type": "archive",
-    "duration": "6h32m10s",
-    "muted_segments": null
   }
 ]
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26555,
+    "followers": 26553,
     "videos": [
+  {
+    "id": "2691328282",
+    "stream_id": "316066528359",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
+    "description": "",
+    "created_at": "2026-02-07T09:22:10Z",
+    "published_at": "2026-02-07T09:22:10Z",
+    "url": "https://www.twitch.tv/videos/2691328282",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/341b6c742e3d3255439e_zornkoenigin_316066528359_1770456124//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 3,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h52m10s",
+    "muted_segments": null
+  },
   {
     "id": "2689509444",
     "stream_id": "316271572838",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2689509444",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/07d77b96998c4ef0c4d7_zornkoenigin_316271572838_1770276590//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2509,
+    "view_count": 2522,
     "language": "de",
     "type": "archive",
     "duration": "3h48m40s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "4h5m0s",
-    "muted_segments": null
-  },
-  {
-    "id": "2684189507",
-    "stream_id": "316201560294",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !elgato | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood",
-    "description": "",
-    "created_at": "2026-01-30T10:38:58Z",
-    "published_at": "2026-01-30T10:38:58Z",
-    "url": "https://www.twitch.tv/videos/2684189507",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/f1ab9a094c1ae1b3d0e6_zornkoenigin_316201560294_1769769532//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1954,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h18m40s",
     "muted_segments": null
   }
 ]
