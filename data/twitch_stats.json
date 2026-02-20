@@ -102,8 +102,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26542,
+    "followers": 26540,
     "videos": [
+  {
+    "id": "2702705518",
+    "stream_id": "316212872423",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
+    "description": "",
+    "created_at": "2026-02-20T08:15:43Z",
+    "published_at": "2026-02-20T08:15:43Z",
+    "url": "https://www.twitch.tv/videos/2702705518",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/9b55db5f83c28a27d74c_zornkoenigin_316212872423_1771575336//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 9,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h5m40s",
+    "muted_segments": null
+  },
   {
     "id": "2701842360",
     "stream_id": "316356805349",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2701842360",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/9b45ae03bffc9f6c7752_zornkoenigin_316356805349_1771489183//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 3,
+    "view_count": 2175,
     "language": "de",
     "type": "archive",
     "duration": "3h28m0s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h58m10s",
-    "muted_segments": null
-  },
-  {
-    "id": "2693102124",
-    "stream_id": "316318666214",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
-    "description": "",
-    "created_at": "2026-02-09T08:48:31Z",
-    "published_at": "2026-02-09T08:48:31Z",
-    "url": "https://www.twitch.tv/videos/2693102124",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/2cb359552532c1bd6b37_zornkoenigin_316318666214_1770626905//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1687,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h6m30s",
     "muted_segments": null
   }
 ]
