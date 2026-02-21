@@ -1,7 +1,7 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 459,
+    "followers": 458,
     "videos": [
   {
     "id": "2693284252",
@@ -16,7 +16,7 @@
     "url": "https://www.twitch.tv/videos/2693284252",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/85863d3b74326e9a1325_l0rdsheld0r_316321817318_1770652764//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 58,
+    "view_count": 63,
     "language": "de",
     "type": "archive",
     "duration": "3h54m20s",
@@ -35,7 +35,7 @@
     "url": "https://www.twitch.tv/videos/2692519417",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/44c7c5f4fcce1be7d882_l0rdsheld0r_316311833062_1770569053//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 206,
+    "view_count": 207,
     "language": "de",
     "type": "archive",
     "duration": "6h40m40s",
@@ -102,7 +102,7 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26540,
+    "followers": 26539,
     "videos": [
   {
     "id": "2702705518",
@@ -117,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2702705518",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/9b55db5f83c28a27d74c_zornkoenigin_316212872423_1771575336//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 9,
+    "view_count": 2722,
     "language": "de",
     "type": "archive",
     "duration": "4h5m40s",
