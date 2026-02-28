@@ -102,8 +102,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26522,
+    "followers": 26518,
     "videos": [
+  {
+    "id": "2709872679",
+    "stream_id": "316464734565",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
+    "description": "",
+    "created_at": "2026-02-28T08:24:56Z",
+    "published_at": "2026-02-28T08:24:56Z",
+    "url": "https://www.twitch.tv/videos/2709872679",
+    "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+    "viewable": "public",
+    "view_count": 0,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h35m9s",
+    "muted_segments": null
+  },
   {
     "id": "2708897812",
     "stream_id": "316526008422",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2708897812",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/58623b5933f57939f2c6_zornkoenigin_316526008422_1772178899//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 5,
+    "view_count": 1477,
     "language": "de",
     "type": "archive",
     "duration": "2h10m0s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "4h5m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2701842360",
-    "stream_id": "316356805349",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "[SauerCrowd] Mehr Tode - Mehr Spass! | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
-    "description": "",
-    "created_at": "2026-02-19T08:19:49Z",
-    "published_at": "2026-02-19T08:19:49Z",
-    "url": "https://www.twitch.tv/videos/2701842360",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/9b45ae03bffc9f6c7752_zornkoenigin_316356805349_1771489183//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2176,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h28m0s",
     "muted_segments": null
   }
 ]
