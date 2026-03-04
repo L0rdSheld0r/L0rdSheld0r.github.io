@@ -1,7 +1,7 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 458,
+    "followers": 459,
     "videos": [
   {
     "id": "2703006567",
@@ -16,7 +16,7 @@
     "url": "https://www.twitch.tv/videos/2703006567",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6cfcaff5bde7910b2d2f_l0rdsheld0r_316373288933_1771610962//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 48,
+    "view_count": 52,
     "language": "de",
     "type": "archive",
     "duration": "6h20m50s",
@@ -102,8 +102,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26515,
+    "followers": 26517,
     "videos": [
+  {
+    "id": "2713434349",
+    "stream_id": "316509517669",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
+    "description": "",
+    "created_at": "2026-03-04T08:41:16Z",
+    "published_at": "2026-03-04T08:41:16Z",
+    "url": "https://www.twitch.tv/videos/2713434349",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/92858839d7f0fe5059e5_zornkoenigin_316509517669_1772613670//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 4,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h2m0s",
+    "muted_segments": null
+  },
   {
     "id": "2711743592",
     "stream_id": "316561814886",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2711743592",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/eae6de869b71b9993c7f_zornkoenigin_316561814886_1772442210//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1497,
+    "view_count": 1502,
     "language": "de",
     "type": "archive",
     "duration": "2h13m40s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h41m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2705470129",
-    "stream_id": "316405806309",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "[SauerCrowd] Mehr Tode - Mehr Spass!  | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
-    "description": "",
-    "created_at": "2026-02-23T08:38:52Z",
-    "published_at": "2026-02-23T08:38:52Z",
-    "url": "https://www.twitch.tv/videos/2705470129",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/c7e4570b698f0a909614_zornkoenigin_316405806309_1771835926//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 3697,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h6m20s",
     "muted_segments": null
   }
 ]
