@@ -1,7 +1,7 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 459,
+    "followers": 461,
     "videos": [
   {
     "id": "2703006567",
@@ -16,7 +16,7 @@
     "url": "https://www.twitch.tv/videos/2703006567",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6cfcaff5bde7910b2d2f_l0rdsheld0r_316373288933_1771610962//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 56,
+    "view_count": 58,
     "language": "de",
     "type": "archive",
     "duration": "6h20m50s",
@@ -102,7 +102,7 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26509,
+    "followers": 26508,
     "videos": [
   {
     "id": "2718631684",
@@ -117,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2718631684",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0ca0197ab7ffdad86240_zornkoenigin_316645424102_1773132740//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1470,
+    "view_count": 1478,
     "language": "de",
     "type": "archive",
     "duration": "2h34m30s",
@@ -136,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2717822560",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/aa85a0cc3188262b1070_zornkoenigin_316635482470_1773047165//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2709,
+    "view_count": 2710,
     "language": "de",
     "type": "archive",
     "duration": "2h31m0s",
@@ -155,7 +155,7 @@
     "url": "https://www.twitch.tv/videos/2714276247",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/fd110fb620513f95f153_zornkoenigin_316365805031_1772700178//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1832,
+    "view_count": 1834,
     "language": "de",
     "type": "archive",
     "duration": "3h13m0s",
@@ -174,7 +174,7 @@
     "url": "https://www.twitch.tv/videos/2713434349",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/92858839d7f0fe5059e5_zornkoenigin_316509517669_1772613670//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2010,
+    "view_count": 2012,
     "language": "de",
     "type": "archive",
     "duration": "3h2m0s",
