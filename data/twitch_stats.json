@@ -105,6 +105,25 @@
     "followers": 26503,
     "videos": [
   {
+    "id": "2725378544",
+    "stream_id": "316505712743",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
+    "description": "",
+    "created_at": "2026-03-18T08:51:49Z",
+    "published_at": "2026-03-18T08:51:49Z",
+    "url": "https://www.twitch.tv/videos/2725378544",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/f8d0ac628098cb1b5e08_zornkoenigin_316505712743_1773823903//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 3,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h41m0s",
+    "muted_segments": null
+  },
+  {
     "id": "2724566678",
     "stream_id": "316495751783",
     "user_id": "178472108",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2724566678",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/70b3b6d7ae8c33037793_zornkoenigin_316495751783_1773739556//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 5,
+    "view_count": 1748,
     "language": "de",
     "type": "archive",
     "duration": "2h42m10s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h31m0s",
-    "muted_segments": null
-  },
-  {
-    "id": "2714276247",
-    "stream_id": "316365805031",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
-    "description": "",
-    "created_at": "2026-03-05T08:43:04Z",
-    "published_at": "2026-03-05T08:43:04Z",
-    "url": "https://www.twitch.tv/videos/2714276247",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/fd110fb620513f95f153_zornkoenigin_316365805031_1772700178//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1834,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h13m0s",
     "muted_segments": null
   }
 ]
