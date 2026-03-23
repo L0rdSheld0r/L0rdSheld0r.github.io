@@ -1,7 +1,7 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 463,
+    "followers": 464,
     "videos": [
   {
     "id": "2723070395",
@@ -16,7 +16,7 @@
     "url": "https://www.twitch.tv/videos/2723070395",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ee9f5672579041367405_l0rdsheld0r_316700877030_1773587866//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 61,
+    "view_count": 62,
     "language": "de",
     "type": "archive",
     "duration": "3h25m20s",
@@ -117,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2727033375",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0289d17c09b41e50eb24_zornkoenigin_316681834597_1773996443//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1377,
+    "view_count": 1380,
     "language": "de",
     "type": "archive",
     "duration": "2h51m0s",
