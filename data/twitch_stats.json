@@ -105,6 +105,25 @@
     "followers": 26497,
     "videos": [
   {
+    "id": "2729743022",
+    "stream_id": "316717775461",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech |",
+    "description": "",
+    "created_at": "2026-03-23T13:40:40Z",
+    "published_at": "2026-03-23T13:40:40Z",
+    "url": "https://www.twitch.tv/videos/2729743022",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/3d25056bfaf571ee6f03_zornkoenigin_316717775461_1774273234//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 1735,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h28m0s",
+    "muted_segments": null
+  },
+  {
     "id": "2727033375",
     "stream_id": "316681834597",
     "user_id": "178472108",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2727033375",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0289d17c09b41e50eb24_zornkoenigin_316681834597_1773996443//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1380,
+    "view_count": 1382,
     "language": "de",
     "type": "archive",
     "duration": "2h51m0s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h0m20s",
-    "muted_segments": null
-  },
-  {
-    "id": "2718631684",
-    "stream_id": "316645424102",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !skandika | !turtlebeach | !hitech | !holzkern | !yfood | !wild",
-    "description": "",
-    "created_at": "2026-03-10T08:52:26Z",
-    "published_at": "2026-03-10T08:52:26Z",
-    "url": "https://www.twitch.tv/videos/2718631684",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0ca0197ab7ffdad86240_zornkoenigin_316645424102_1773132740//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1488,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h34m30s",
     "muted_segments": null
   }
 ]
