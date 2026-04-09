@@ -105,6 +105,25 @@
     "followers": 26477,
     "videos": [
   {
+    "id": "2743632216",
+    "stream_id": "316903335269",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech |",
+    "description": "",
+    "created_at": "2026-04-09T08:06:11Z",
+    "published_at": "2026-04-09T08:06:11Z",
+    "url": "https://www.twitch.tv/videos/2743632216",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/294666b367e83bb08192_zornkoenigin_316903335269_1775721965//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 3,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h2m20s",
+    "muted_segments": null
+  },
+  {
     "id": "2742829676",
     "stream_id": "316956981734",
     "user_id": "178472108",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2742829676",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a61629fc304167cd48ec_zornkoenigin_316956981734_1775634263//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 6,
+    "view_count": 1658,
     "language": "de",
     "type": "archive",
     "duration": "2h45m0s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h19m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2732872402",
-    "stream_id": "316756915173",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech |",
-    "description": "",
-    "created_at": "2026-03-27T08:37:04Z",
-    "published_at": "2026-03-27T08:37:04Z",
-    "url": "https://www.twitch.tv/videos/2732872402",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d00462488c99a13aa40a_zornkoenigin_316756915173_1774600619//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1220,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h25m50s",
     "muted_segments": null
   }
 ]
