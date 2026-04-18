@@ -102,8 +102,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26465,
+    "followers": 26462,
     "videos": [
+  {
+    "id": "2750426624",
+    "stream_id": "317060212326",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "🎉 CAGGTUS PARTY 2026 🎉",
+    "description": "",
+    "created_at": "2026-04-17T18:26:46Z",
+    "published_at": "2026-04-17T18:26:46Z",
+    "url": "https://www.twitch.tv/videos/2750426624",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/08e4e66a007b66f6004d_zornkoenigin_317060212326_1776450400//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 1699,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h6m2s",
+    "muted_segments": null
+  },
   {
     "id": "2747730977",
     "stream_id": "316803985255",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2747730977",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/726cfbd5225c635a725c_zornkoenigin_316803985255_1776152314//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1361,
+    "view_count": 1363,
     "language": "de",
     "type": "archive",
     "duration": "2h41m20s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h45m0s",
-    "muted_segments": null
-  },
-  {
-    "id": "2742032334",
-    "stream_id": "316726756839",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "DROPS! Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech |",
-    "description": "",
-    "created_at": "2026-04-07T07:42:31Z",
-    "published_at": "2026-04-07T07:42:31Z",
-    "url": "https://www.twitch.tv/videos/2742032334",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/55a28ac92e69b536abe6_zornkoenigin_316726756839_1775547745//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2422,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h37m30s",
     "muted_segments": null
   }
 ]
