@@ -78,31 +78,12 @@
     "type": "archive",
     "duration": "6h38m50s",
     "muted_segments": null
-  },
-  {
-    "id": "2703006567",
-    "stream_id": "316373288933",
-    "user_id": "39733528",
-    "user_login": "l0rdsheld0r",
-    "user_name": "L0rdSheld0r",
-    "title": "WoW - TBC calling [Thunderstrike]   || 2026#14 !socials",
-    "description": "",
-    "created_at": "2026-02-20T18:09:28Z",
-    "published_at": "2026-02-20T18:09:28Z",
-    "url": "https://www.twitch.tv/videos/2703006567",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6cfcaff5bde7910b2d2f_l0rdsheld0r_316373288933_1771610962//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 58,
-    "language": "de",
-    "type": "archive",
-    "duration": "6h20m50s",
-    "muted_segments": null
   }
 ]
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26462,
+    "followers": 26460,
     "videos": [
   {
     "id": "2752600269",
@@ -117,7 +98,7 @@
     "url": "https://www.twitch.tv/videos/2752600269",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ab69f4ac7ac9ddfc2ea3_zornkoenigin_316868267879_1776671940//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1453,
+    "view_count": 1458,
     "language": "de",
     "type": "archive",
     "duration": "2h40m30s",
@@ -136,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2751101540",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a1954e0d2f775f2fbe2a_zornkoenigin_316848953063_1776520719//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 5612,
+    "view_count": 5613,
     "language": "de",
     "type": "archive",
     "duration": "11h9m42s",
