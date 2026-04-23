@@ -16,7 +16,7 @@
     "url": "https://www.twitch.tv/videos/2723070395",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ee9f5672579041367405_l0rdsheld0r_316700877030_1773587866//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 75,
+    "view_count": 76,
     "language": "de",
     "type": "archive",
     "duration": "3h25m20s",
@@ -83,8 +83,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26460,
+    "followers": 26459,
     "videos": [
+  {
+    "id": "2754960511",
+    "stream_id": "317118945894",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech |",
+    "description": "",
+    "created_at": "2026-04-23T07:49:58Z",
+    "published_at": "2026-04-23T07:49:58Z",
+    "url": "https://www.twitch.tv/videos/2754960511",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/98f220d5bc509d52bd91_zornkoenigin_317118945894_1776930592//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 2,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h49m40s",
+    "muted_segments": null
+  },
   {
     "id": "2752600269",
     "stream_id": "316868267879",
@@ -98,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2752600269",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ab69f4ac7ac9ddfc2ea3_zornkoenigin_316868267879_1776671940//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1458,
+    "view_count": 1462,
     "language": "de",
     "type": "archive",
     "duration": "2h40m30s",
@@ -159,25 +178,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h41m20s",
-    "muted_segments": null
-  },
-  {
-    "id": "2746956530",
-    "stream_id": "316793493863",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech |",
-    "description": "",
-    "created_at": "2026-04-13T07:56:33Z",
-    "published_at": "2026-04-13T07:56:33Z",
-    "url": "https://www.twitch.tv/videos/2746956530",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a17cf0aae05302cc6747_zornkoenigin_316793493863_1776066987//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1652,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h57m0s",
     "muted_segments": null
   }
 ]
