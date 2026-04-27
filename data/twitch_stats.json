@@ -83,8 +83,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26451,
+    "followers": 26452,
     "videos": [
+  {
+    "id": "2758188470",
+    "stream_id": "316945254631",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Geburtstagsstream <3 | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-04-27T07:18:04Z",
+    "published_at": "2026-04-27T07:18:04Z",
+    "url": "https://www.twitch.tv/videos/2758188470",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/11998c35ba82018e138f_zornkoenigin_316945254631_1777274278//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 7,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h28m30s",
+    "muted_segments": null
+  },
   {
     "id": "2755734402",
     "stream_id": "316910350695",
@@ -98,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2755734402",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/c018e23a8467af8247df_zornkoenigin_316910350695_1777016495//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1049,
+    "view_count": 1053,
     "language": "de",
     "type": "archive",
     "duration": "2h11m50s",
@@ -159,25 +178,6 @@
     "language": "de",
     "type": "archive",
     "duration": "11h9m42s",
-    "muted_segments": null
-  },
-  {
-    "id": "2750426624",
-    "stream_id": "317060212326",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "🎉 CAGGTUS PARTY 2026 🎉",
-    "description": "",
-    "created_at": "2026-04-17T18:26:46Z",
-    "published_at": "2026-04-17T18:26:46Z",
-    "url": "https://www.twitch.tv/videos/2750426624",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/08e4e66a007b66f6004d_zornkoenigin_317060212326_1776450400//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1700,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h6m2s",
     "muted_segments": null
   }
 ]
