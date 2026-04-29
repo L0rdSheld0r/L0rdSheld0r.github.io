@@ -83,8 +83,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26452,
+    "followers": 26449,
     "videos": [
+  {
+    "id": "2759756953",
+    "stream_id": "317118893157",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen!| !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-04-29T07:36:02Z",
+    "published_at": "2026-04-29T07:36:02Z",
+    "url": "https://www.twitch.tv/videos/2759756953",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/17a8a2aa2943404ffd62_zornkoenigin_317118893157_1777448157//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 4,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h53m10s",
+    "muted_segments": null
+  },
   {
     "id": "2758188470",
     "stream_id": "316945254631",
@@ -98,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2758188470",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/11998c35ba82018e138f_zornkoenigin_316945254631_1777274278//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 7,
+    "view_count": 3614,
     "language": "de",
     "type": "archive",
     "duration": "4h28m30s",
@@ -159,25 +178,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h40m30s",
-    "muted_segments": null
-  },
-  {
-    "id": "2751101540",
-    "stream_id": "316848953063",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "🎮 CAGGTUS 2026 🎮 !TTS !Eierkopp !Train !Holy !Moumint !Shop !LordsMobile !Socials",
-    "description": "",
-    "created_at": "2026-04-18T13:58:44Z",
-    "published_at": "2026-04-18T13:58:44Z",
-    "url": "https://www.twitch.tv/videos/2751101540",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a1954e0d2f775f2fbe2a_zornkoenigin_316848953063_1776520719//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 5613,
-    "language": "de",
-    "type": "archive",
-    "duration": "11h9m42s",
     "muted_segments": null
   }
 ]
