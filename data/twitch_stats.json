@@ -59,31 +59,12 @@
     "type": "archive",
     "duration": "5h26m53s",
     "muted_segments": null
-  },
-  {
-    "id": "2710181692",
-    "stream_id": "316543260134",
-    "user_id": "39733528",
-    "user_login": "l0rdsheld0r",
-    "user_name": "L0rdSheld0r",
-    "title": "WoW - Midnight - Planlos durch Silbermond  || 2026#15 !socials",
-    "description": "",
-    "created_at": "2026-02-28T17:32:22Z",
-    "published_at": "2026-02-28T17:32:22Z",
-    "url": "https://www.twitch.tv/videos/2710181692",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/143e8f378eeea5c74e7a_l0rdsheld0r_316543260134_1772299935//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 37,
-    "language": "de",
-    "type": "archive",
-    "duration": "6h38m50s",
-    "muted_segments": null
   }
 ]
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26449,
+    "followers": 26448,
     "videos": [
   {
     "id": "2759756953",
@@ -98,7 +79,7 @@
     "url": "https://www.twitch.tv/videos/2759756953",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/17a8a2aa2943404ffd62_zornkoenigin_317118893157_1777448157//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 4,
+    "view_count": 1338,
     "language": "de",
     "type": "archive",
     "duration": "2h53m10s",
