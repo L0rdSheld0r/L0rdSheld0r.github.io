@@ -45,8 +45,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26445,
+    "followers": 26444,
     "videos": [
+  {
+    "id": "2763847193",
+    "stream_id": "317024409575",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen!| !holy | !ankerkraut | !turtlebeach | !hitech | !elgato | !snocks | !opera",
+    "description": "",
+    "created_at": "2026-05-04T07:51:43Z",
+    "published_at": "2026-05-04T07:51:43Z",
+    "url": "https://www.twitch.tv/videos/2763847193",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/fdc455b93cda81c95f1c_zornkoenigin_317024409575_1777881097//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 5,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h51m0s",
+    "muted_segments": null
+  },
   {
     "id": "2759756953",
     "stream_id": "317118893157",
@@ -60,7 +79,7 @@
     "url": "https://www.twitch.tv/videos/2759756953",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/17a8a2aa2943404ffd62_zornkoenigin_317118893157_1777448157//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1350,
+    "view_count": 1354,
     "language": "de",
     "type": "archive",
     "duration": "2h53m10s",
@@ -121,25 +140,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h49m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2752600269",
-    "stream_id": "316868267879",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "🎮 CAGGTUS 2026 🎮 !TTS !Eierkopp !Train !Holy !Moumint !Shop !LordsMobile !Socials",
-    "description": "",
-    "created_at": "2026-04-20T07:59:06Z",
-    "published_at": "2026-04-20T07:59:06Z",
-    "url": "https://www.twitch.tv/videos/2752600269",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ab69f4ac7ac9ddfc2ea3_zornkoenigin_316868267879_1776671940//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1462,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h40m30s",
     "muted_segments": null
   }
 ]
