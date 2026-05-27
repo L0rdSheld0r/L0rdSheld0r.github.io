@@ -9,6 +9,25 @@
     "followers": 26419,
     "videos": [
   {
+    "id": "2781986471",
+    "stream_id": "317417374949",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato | !snocks | !opera",
+    "description": "",
+    "created_at": "2026-05-27T07:57:31Z",
+    "published_at": "2026-05-27T07:57:31Z",
+    "url": "https://www.twitch.tv/videos/2781986471",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/961d77f3b9b9e8e8b328_zornkoenigin_317417374949_1779868645//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 1616,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h9m40s",
+    "muted_segments": null
+  },
+  {
     "id": "2781222751",
     "stream_id": "317263722727",
     "user_id": "178472108",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2781222751",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/09d0e703779cdd78a642_zornkoenigin_317263722727_1779784817//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1100,
+    "view_count": 1109,
     "language": "de",
     "type": "archive",
     "duration": "2h12m10s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h1m10s",
-    "muted_segments": null
-  },
-  {
-    "id": "2774893164",
-    "stream_id": "317180246119",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Ich heirate! Defollower so: DAS KANNST DU DOCH NICHT MACHEN!| !holy | !ankerkraut | !turtlebeach | !hitech | !elgato | !snocks | !opera",
-    "description": "",
-    "created_at": "2026-05-18T08:07:34Z",
-    "published_at": "2026-05-18T08:07:34Z",
-    "url": "https://www.twitch.tv/videos/2774893164",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/da11551a3f1a06eb02df_zornkoenigin_317180246119_1779091649//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 843,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h26m50s",
     "muted_segments": null
   }
 ]
