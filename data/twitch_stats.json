@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26413,
+    "followers": 26407,
     "videos": [
+  {
+    "id": "2786705064",
+    "stream_id": "317333129575",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato | !snocks | !opera",
+    "description": "",
+    "created_at": "2026-06-02T08:07:48Z",
+    "published_at": "2026-06-02T08:07:48Z",
+    "url": "https://www.twitch.tv/videos/2786705064",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/64ad3190e7050f163e49_zornkoenigin_317333129575_1780387663//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 1375,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h28m20s",
+    "muted_segments": null
+  },
   {
     "id": "2785955776",
     "stream_id": "317467510885",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2785955776",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ee22ef12903eec21830e_zornkoenigin_317467510885_1780304028//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 982,
+    "view_count": 986,
     "language": "de",
     "type": "archive",
     "duration": "1h42m40s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h0m50s",
-    "muted_segments": null
-  },
-  {
-    "id": "2776440293",
-    "stream_id": "317346430309",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Subbe jetzt rein und werde TRAUZEUGE KEKW |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato | !snocks | !opera",
-    "description": "",
-    "created_at": "2026-05-20T08:02:42Z",
-    "published_at": "2026-05-20T08:02:42Z",
-    "url": "https://www.twitch.tv/videos/2776440293",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/5d8d096c187f754e31c0_zornkoenigin_317346430309_1779264156//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1193,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h37m20s",
     "muted_segments": null
   }
 ]
