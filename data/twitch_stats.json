@@ -1,12 +1,12 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 463,
+    "followers": 462,
     "videos": []
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26406,
+    "followers": 26405,
     "videos": [
   {
     "id": "2786705064",
@@ -21,7 +21,7 @@
     "url": "https://www.twitch.tv/videos/2786705064",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/64ad3190e7050f163e49_zornkoenigin_317333129575_1780387663//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1385,
+    "view_count": 1390,
     "language": "de",
     "type": "archive",
     "duration": "2h28m20s",
