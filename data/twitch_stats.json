@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26392,
+    "followers": 26387,
     "videos": [
+  {
+    "id": "2805669519",
+    "stream_id": "317796511590",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato | #dorfromantik",
+    "description": "",
+    "created_at": "2026-06-26T07:52:51Z",
+    "published_at": "2026-06-26T07:52:51Z",
+    "url": "https://www.twitch.tv/videos/2805669519",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d7a2ac13f7cfa8c86de4_zornkoenigin_317796511590_1782460365//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 6,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h2m20s",
+    "muted_segments": null
+  },
   {
     "id": "2804904124",
     "stream_id": "317568689383",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2804904124",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/5900e9e7ee915432b0af_zornkoenigin_317568689383_1782375937//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1,
+    "view_count": 1086,
     "language": "de",
     "type": "archive",
     "duration": "2h18m10s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "11m1s",
-    "muted_segments": null
-  },
-  {
-    "id": "2803370007",
-    "stream_id": "317549366631",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Jemand muss auch die Holzwege zu Ende gehen |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato |",
-    "description": "",
-    "created_at": "2026-06-23T09:12:41Z",
-    "published_at": "2026-06-23T09:12:41Z",
-    "url": "https://www.twitch.tv/videos/2803370007",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/e4c04725dd58a5d62b3c_zornkoenigin_317549366631_1782205955//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1426,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h34m52s",
     "muted_segments": null
   }
 ]
