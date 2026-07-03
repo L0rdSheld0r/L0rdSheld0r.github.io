@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26377,
+    "followers": 26373,
     "videos": [
+  {
+    "id": "2811111268",
+    "stream_id": "317795741797",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-07-03T10:08:54Z",
+    "published_at": "2026-07-03T10:08:54Z",
+    "url": "https://www.twitch.tv/videos/2811111268",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/4bd2ee83637bc745268b_zornkoenigin_317795741797_1783073328//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 6,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h6m50s",
+    "muted_segments": null
+  },
   {
     "id": "2810286065",
     "stream_id": "317784541925",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2810286065",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/5c83839fc340f6711c3c_zornkoenigin_317784541925_1782978366//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 5,
+    "view_count": 1578,
     "language": "de",
     "type": "archive",
     "duration": "3h2m20s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h2m20s",
-    "muted_segments": null
-  },
-  {
-    "id": "2804904124",
-    "stream_id": "317568689383",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Jemand muss auch die Holzwege zu Ende gehen |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato |",
-    "description": "",
-    "created_at": "2026-06-25T08:25:42Z",
-    "published_at": "2026-06-25T08:25:42Z",
-    "url": "https://www.twitch.tv/videos/2804904124",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/5900e9e7ee915432b0af_zornkoenigin_317568689383_1782375937//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1088,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h18m10s",
     "muted_segments": null
   }
 ]
