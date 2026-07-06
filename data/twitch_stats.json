@@ -6,7 +6,7 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26366,
+    "followers": 26364,
     "videos": [
   {
     "id": "2812623296",
@@ -19,12 +19,12 @@
     "created_at": "2026-07-05T09:14:58Z",
     "published_at": "2026-07-05T09:14:58Z",
     "url": "https://www.twitch.tv/videos/2812623296",
-    "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/94e01565f3e7f816e24a_zornkoenigin_317670649447_1783242893//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 3,
+    "view_count": 3044,
     "language": "de",
     "type": "archive",
-    "duration": "4h40m7s",
+    "duration": "5h26m20s",
     "muted_segments": null
   },
   {
@@ -59,7 +59,7 @@
     "url": "https://www.twitch.tv/videos/2810286065",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/5c83839fc340f6711c3c_zornkoenigin_317784541925_1782978366//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1578,
+    "view_count": 1579,
     "language": "de",
     "type": "archive",
     "duration": "3h2m20s",
