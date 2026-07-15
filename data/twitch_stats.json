@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26359,
+    "followers": 26355,
     "videos": [
+  {
+    "id": "2820454449",
+    "stream_id": "317918170085",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-07-15T08:07:08Z",
+    "published_at": "2026-07-15T08:07:08Z",
+    "url": "https://www.twitch.tv/videos/2820454449",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/23e2e24f061bbcc49736_zornkoenigin_317918170085_1784102823//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 5,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h11m0s",
+    "muted_segments": null
+  },
   {
     "id": "2818884075",
     "stream_id": "317754756071",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2818884075",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/89d697e556f9e3292d9e_zornkoenigin_317754756071_1783930133//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1445,
+    "view_count": 1447,
     "language": "de",
     "type": "archive",
     "duration": "2h50m20s",
@@ -40,7 +59,7 @@
     "url": "https://www.twitch.tv/videos/2816465291",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/7cc82dc8ec186f3f49eb_zornkoenigin_317937415654_1783669623//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2056,
+    "view_count": 2057,
     "language": "de",
     "type": "archive",
     "duration": "4h10m40s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h38m0s",
-    "muted_segments": null
-  },
-  {
-    "id": "2814094490",
-    "stream_id": "317836503013",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Wir besuchen Hoschi! |  !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-07-07T07:38:02Z",
-    "published_at": "2026-07-07T07:38:02Z",
-    "url": "https://www.twitch.tv/videos/2814094490",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/4db62c26d3db9d427191_zornkoenigin_317836503013_1783409876//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 462,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h5m40s",
     "muted_segments": null
   }
 ]
