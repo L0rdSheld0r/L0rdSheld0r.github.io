@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26366,
+    "followers": 26385,
     "videos": [
+  {
+    "id": "2824445464",
+    "stream_id": "318038610790",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Monday | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-07-20T08:06:11Z",
+    "published_at": "2026-07-20T08:06:11Z",
+    "url": "https://www.twitch.tv/videos/2824445464",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/573d2abaa7277730180e_zornkoenigin_318038610790_1784534765//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 23,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h4m10s",
+    "muted_segments": null
+  },
   {
     "id": "2822085770",
     "stream_id": "318008798950",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2822085770",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/8930e21b4668834b4f0f_zornkoenigin_318008798950_1784285039//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 4243,
+    "view_count": 4284,
     "language": "de",
     "type": "archive",
     "duration": "5h46m30s",
@@ -59,7 +78,7 @@
     "url": "https://www.twitch.tv/videos/2820454449",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/23e2e24f061bbcc49736_zornkoenigin_317918170085_1784102823//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1629,
+    "view_count": 1630,
     "language": "de",
     "type": "archive",
     "duration": "3h11m0s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h50m20s",
-    "muted_segments": null
-  },
-  {
-    "id": "2816465291",
-    "stream_id": "317937415654",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato #learningfactory",
-    "description": "",
-    "created_at": "2026-07-10T07:47:09Z",
-    "published_at": "2026-07-10T07:47:09Z",
-    "url": "https://www.twitch.tv/videos/2816465291",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/7cc82dc8ec186f3f49eb_zornkoenigin_317937415654_1783669623//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2058,
-    "language": "de",
-    "type": "archive",
-    "duration": "4h10m40s",
     "muted_segments": null
   }
 ]
