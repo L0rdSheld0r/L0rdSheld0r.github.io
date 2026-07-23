@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26381,
+    "followers": 26375,
     "videos": [
+  {
+    "id": "2826219043",
+    "stream_id": "317992402021",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Tuesday| !holy | !ankerkraut | !turtlebeach | !hitech | !elgato #survivalmachine",
+    "description": "",
+    "created_at": "2026-07-22T14:31:58Z",
+    "published_at": "2026-07-22T14:31:58Z",
+    "url": "https://www.twitch.tv/videos/2826219043",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a9ddd7c63cbb41afb4ee_zornkoenigin_317992402021_1784730712//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 733,
+    "language": "de",
+    "type": "archive",
+    "duration": "1h29m50s",
+    "muted_segments": null
+  },
   {
     "id": "2825230909",
     "stream_id": "317837756263",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h18m0s",
-    "muted_segments": null
-  },
-  {
-    "id": "2820454449",
-    "stream_id": "317918170085",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Jemand muss auch die Holzwege zu Ende gehen | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-07-15T08:07:08Z",
-    "published_at": "2026-07-15T08:07:08Z",
-    "url": "https://www.twitch.tv/videos/2820454449",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/23e2e24f061bbcc49736_zornkoenigin_317918170085_1784102823//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1631,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h11m0s",
     "muted_segments": null
   }
 ]
