@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26374,
+    "followers": 26373,
     "videos": [
+  {
+    "id": "2830947622",
+    "stream_id": "318053458661",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Day! | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-07-28T06:58:34Z",
+    "published_at": "2026-07-28T06:58:34Z",
+    "url": "https://www.twitch.tv/videos/2830947622",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6d3d5a370ff36bc88340_zornkoenigin_318053458661_1785221909//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 2,
+    "language": "de",
+    "type": "archive",
+    "duration": "1h59m30s",
+    "muted_segments": null
+  },
   {
     "id": "2830171290",
     "stream_id": "317900584295",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2830171290",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/2e4f26c6506f75550bee_zornkoenigin_317900584295_1785139508//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 9,
+    "view_count": 770,
     "language": "de",
     "type": "archive",
     "duration": "1h20m0s",
@@ -40,7 +59,7 @@
     "url": "https://www.twitch.tv/videos/2827711954",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/2d88366806a5372e7a9e_zornkoenigin_318079420262_1784881559//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1442,
+    "view_count": 1443,
     "language": "de",
     "type": "archive",
     "duration": "2h38m0s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h1m50s",
-    "muted_segments": null
-  },
-  {
-    "id": "2824445464",
-    "stream_id": "318038610790",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy Monday | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-07-20T08:06:11Z",
-    "published_at": "2026-07-20T08:06:11Z",
-    "url": "https://www.twitch.tv/videos/2824445464",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/573d2abaa7277730180e_zornkoenigin_318038610790_1784534765//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1777,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h4m10s",
     "muted_segments": null
   }
 ]
