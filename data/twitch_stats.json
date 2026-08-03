@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26372,
+    "followers": 26369,
     "videos": [
+  {
+    "id": "2836021493",
+    "stream_id": "318117815909",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Monday | !prozis | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-08-03T09:11:44Z",
+    "published_at": "2026-08-03T09:11:44Z",
+    "url": "https://www.twitch.tv/videos/2836021493",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a712d3e93bf120f23a05_zornkoenigin_318117815909_1785748299//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 3,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h52m40s",
+    "muted_segments": null
+  },
   {
     "id": "2833422817",
     "stream_id": "317942690535",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2833422817",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/e31c184c67a29975e809_zornkoenigin_317942690535_1785484546//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1759,
+    "view_count": 1763,
     "language": "de",
     "type": "archive",
     "duration": "3h9m30s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "1h59m30s",
-    "muted_segments": null
-  },
-  {
-    "id": "2830171290",
-    "stream_id": "317900584295",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy Day! | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato #HaloCampaignEvolved #GiftedbyXbox",
-    "description": "",
-    "created_at": "2026-07-27T08:05:13Z",
-    "published_at": "2026-07-27T08:05:13Z",
-    "url": "https://www.twitch.tv/videos/2830171290",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/2e4f26c6506f75550bee_zornkoenigin_317900584295_1785139508//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 771,
-    "language": "de",
-    "type": "archive",
-    "duration": "1h20m0s",
     "muted_segments": null
   }
 ]
