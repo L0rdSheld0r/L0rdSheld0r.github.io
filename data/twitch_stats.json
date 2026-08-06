@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26370,
+    "followers": 26378,
     "videos": [
+  {
+    "id": "2838657846",
+    "stream_id": "318149432933",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "📹 IRL Special: ELECTRISIZE 2026 (Die Anreise) 📹 !TTS !Auto !Sommer !Holy !Moumint !Shop !Socials",
+    "description": "",
+    "created_at": "2026-08-06T09:30:23Z",
+    "published_at": "2026-08-06T09:30:23Z",
+    "url": "https://www.twitch.tv/videos/2838657846",
+    "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+    "viewable": "public",
+    "view_count": 10,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h56m22s",
+    "muted_segments": null
+  },
   {
     "id": "2837732304",
     "stream_id": "317996181095",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2837732304",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/ceed6035f1c392ec69ac_zornkoenigin_317996181095_1785914138//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 11,
+    "view_count": 958,
     "language": "de",
     "type": "archive",
     "duration": "1h46m50s",
@@ -40,7 +59,7 @@
     "url": "https://www.twitch.tv/videos/2836869285",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0ef91458229306ba90e2_zornkoenigin_318193420390_1785832284//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1122,
+    "view_count": 1123,
     "language": "de",
     "type": "archive",
     "duration": "1h59m50s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h9m30s",
-    "muted_segments": null
-  },
-  {
-    "id": "2832609009",
-    "stream_id": "318075252709",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Partner Jubiläum - 6 Jahre Twitch Partner | !holy | !ankerkraut | !turtlebeach | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-07-30T08:04:28Z",
-    "published_at": "2026-07-30T08:04:28Z",
-    "url": "https://www.twitch.tv/videos/2832609009",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/9d46027723af03208143_zornkoenigin_318075252709_1785398662//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1741,
-    "language": "de",
-    "type": "archive",
-    "duration": "2h58m0s",
     "muted_segments": null
   }
 ]
