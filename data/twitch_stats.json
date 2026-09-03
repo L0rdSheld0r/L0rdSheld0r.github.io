@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26344,
+    "followers": 26341,
     "videos": [
+  {
+    "id": "2863975253",
+    "stream_id": "318453274341",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Donnerstag | !prozis | !holy | !ankerkraut | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-09-03T06:45:21Z",
+    "published_at": "2026-09-03T06:45:21Z",
+    "url": "https://www.twitch.tv/videos/2863975253",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/86ee35a4ccee29f927cc_zornkoenigin_318453274341_1788417916//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 5,
+    "language": "de",
+    "type": "archive",
+    "duration": "2h30m50s",
+    "muted_segments": null
+  },
   {
     "id": "2863320597",
     "stream_id": "318445754213",
@@ -19,12 +38,12 @@
     "created_at": "2026-09-02T14:46:28Z",
     "published_at": "2026-09-02T14:46:28Z",
     "url": "https://www.twitch.tv/videos/2863320597",
-    "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/74551e57b99c2262fb5d_zornkoenigin_318445754213_1788360383//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 0,
+    "view_count": 1091,
     "language": "de",
     "type": "archive",
-    "duration": "1h37m57s",
+    "duration": "2h41m0s",
     "muted_segments": null
   },
   {
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "6h32m19s",
-    "muted_segments": null
-  },
-  {
-    "id": "2839632797",
-    "stream_id": "318020220135",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "📹 IRL Special: ELECTRISIZE 2026 (Tag 1) 📹 !TTS !Auto !Sommer !Holy !Moumint !Shop !Socials",
-    "description": "",
-    "created_at": "2026-08-07T12:36:06Z",
-    "published_at": "2026-08-07T12:36:06Z",
-    "url": "https://www.twitch.tv/videos/2839632797",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/32bf67d9f546866d78bc_zornkoenigin_318020220135_1786106161//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 3374,
-    "language": "de",
-    "type": "archive",
-    "duration": "4h54m33s",
     "muted_segments": null
   }
 ]
