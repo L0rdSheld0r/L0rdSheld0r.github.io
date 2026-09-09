@@ -1,12 +1,12 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 489,
+    "followers": 488,
     "videos": []
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26332,
+    "followers": 26330,
     "videos": [
   {
     "id": "2868532320",
@@ -21,7 +21,7 @@
     "url": "https://www.twitch.tv/videos/2868532320",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/612ebc0722f3f6f7beb8_zornkoenigin_318510868197_1788855112//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 6,
+    "view_count": 1457,
     "language": "de",
     "type": "archive",
     "duration": "3h31m40s",
@@ -40,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2867685574",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/fe9f9a3d80a5f39d0242_zornkoenigin_318366019943_1788777746//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 555,
+    "view_count": 556,
     "language": "de",
     "type": "archive",
     "duration": "1h12m9s",
@@ -59,7 +59,7 @@
     "url": "https://www.twitch.tv/videos/2867650401",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/7e66578895fbf3832181_zornkoenigin_318365394535_1788771462//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 815,
+    "view_count": 816,
     "language": "de",
     "type": "archive",
     "duration": "1h41m33s",
@@ -78,7 +78,7 @@
     "url": "https://www.twitch.tv/videos/2864857315",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/32ffa70c391cfb279428_zornkoenigin_318529399782_1788509242//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1335,
+    "view_count": 1336,
     "language": "de",
     "type": "archive",
     "duration": "3h13m10s",
@@ -97,7 +97,7 @@
     "url": "https://www.twitch.tv/videos/2863975253",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/86ee35a4ccee29f927cc_zornkoenigin_318453274341_1788417916//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1109,
+    "view_count": 1110,
     "language": "de",
     "type": "archive",
     "duration": "2h30m50s",
