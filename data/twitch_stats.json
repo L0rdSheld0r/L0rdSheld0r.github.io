@@ -6,8 +6,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26322,
+    "followers": 26318,
     "videos": [
+  {
+    "id": "2875525698",
+    "stream_id": "318468194023",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy September | !prozis | !holy | !Shakes | !ankerkraut | !hitech | !elgato #LousLagoon",
+    "description": "",
+    "created_at": "2026-09-16T07:26:32Z",
+    "published_at": "2026-09-16T07:26:32Z",
+    "url": "https://www.twitch.tv/videos/2875525698",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/c6f4fe1c7a84e6f67c2d_zornkoenigin_318468194023_1789543587//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 5,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h40m30s",
+    "muted_segments": null
+  },
   {
     "id": "2873833593",
     "stream_id": "318642393830",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2873833593",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/dafe3e7d06bedf9b933d_zornkoenigin_318642393830_1789370946//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2007,
+    "view_count": 2009,
     "language": "de",
     "type": "archive",
     "duration": "3h29m40s",
@@ -40,7 +59,7 @@
     "url": "https://www.twitch.tv/videos/2871075472",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/5c53aa7558962bba7a1d_zornkoenigin_318409540199_1789112237//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1089,
+    "view_count": 1090,
     "language": "de",
     "type": "archive",
     "duration": "2h6m30s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h31m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2867685574",
-    "stream_id": "318366019943",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy Monday | !prozis | !holy | !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-09-07T10:42:32Z",
-    "published_at": "2026-09-07T10:42:32Z",
-    "url": "https://www.twitch.tv/videos/2867685574",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/fe9f9a3d80a5f39d0242_zornkoenigin_318366019943_1788777746//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 557,
-    "language": "de",
-    "type": "archive",
-    "duration": "1h12m9s",
     "muted_segments": null
   }
 ]
