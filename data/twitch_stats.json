@@ -9,6 +9,25 @@
     "followers": 26302,
     "videos": [
   {
+    "id": "2888761660",
+    "stream_id": "318780908645",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy September | !marleyspoon | !prozis | !holy | !Shakes | !ankerkraut | !hitech | !elgato #Townfall",
+    "description": "",
+    "created_at": "2026-10-01T07:57:16Z",
+    "published_at": "2026-10-01T07:57:16Z",
+    "url": "https://www.twitch.tv/videos/2888761660",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/a888cffe101dd2594255_zornkoenigin_318780908645_1790841431//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 1389,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h7m0s",
+    "muted_segments": null
+  },
+  {
     "id": "2887893305",
     "stream_id": "318769006821",
     "user_id": "178472108",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2887893305",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/8f65b59126feefb7a55d_zornkoenigin_318769006821_1790753550//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 5,
+    "view_count": 1637,
     "language": "de",
     "type": "archive",
     "duration": "2h54m0s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h54m20s",
-    "muted_segments": null
-  },
-  {
-    "id": "2880058128",
-    "stream_id": "318665626853",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy September | !prozis | !holy | !Shakes | !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-09-21T09:04:52Z",
-    "published_at": "2026-09-21T09:04:52Z",
-    "url": "https://www.twitch.tv/videos/2880058128",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/1c414144e2a99b97986d_zornkoenigin_318665626853_1789981486//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1851,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h29m0s",
     "muted_segments": null
   }
 ]
