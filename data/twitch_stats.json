@@ -9,6 +9,25 @@
     "followers": 26293,
     "videos": [
   {
+    "id": "2899520015",
+    "stream_id": "318791675367",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Oktober | !shakes | !prozis | !holy | !marleyspoon| !ankerkraut | !hitech | !elgato #twopointmuseum",
+    "description": "",
+    "created_at": "2026-10-13T07:33:55Z",
+    "published_at": "2026-10-13T07:33:55Z",
+    "url": "https://www.twitch.tv/videos/2899520015",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6f9fef9441927e64d70b_zornkoenigin_318791675367_1791876830//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 2154,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h24m20s",
+    "muted_segments": null
+  },
+  {
     "id": "2898653142",
     "stream_id": "318972594022",
     "user_id": "178472108",
@@ -21,7 +40,7 @@
     "url": "https://www.twitch.tv/videos/2898653142",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d07420a9079decebccfd_zornkoenigin_318972594022_1791791541//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1797,
+    "view_count": 1798,
     "language": "de",
     "type": "archive",
     "duration": "3h14m10s",
@@ -82,25 +101,6 @@
     "language": "de",
     "type": "archive",
     "duration": "2h27m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2889625172",
-    "stream_id": "318848642662",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy September | !marleyspoon | !prozis | !holy | !Shakes | !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-10-02T07:46:19Z",
-    "published_at": "2026-10-02T07:46:19Z",
-    "url": "https://www.twitch.tv/videos/2889625172",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/7c4ebb09a58be761187a_zornkoenigin_318848642662_1790927174//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1429,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h19m0s",
     "muted_segments": null
   }
 ]
