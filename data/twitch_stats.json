@@ -45,8 +45,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26287,
+    "followers": 26290,
     "videos": [
+  {
+    "id": "2904041563",
+    "stream_id": "319048376550",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Creator Flohmarkt| !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-10-18T09:28:27Z",
+    "published_at": "2026-10-18T09:28:27Z",
+    "url": "https://www.twitch.tv/videos/2904041563",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/e5aac5b8b1fbd46f02a7_zornkoenigin_319048376550_1792315702//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 10,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h56m40s",
+    "muted_segments": null
+  },
   {
     "id": "2902107560",
     "stream_id": "318827258087",
@@ -60,7 +79,7 @@
     "url": "https://www.twitch.tv/videos/2902107560",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/bcc17673fd379d9104dc_zornkoenigin_318827258087_1792137318//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2023,
+    "view_count": 2026,
     "language": "de",
     "type": "archive",
     "duration": "3h22m50s",
@@ -121,25 +140,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h24m20s",
-    "muted_segments": null
-  },
-  {
-    "id": "2898653142",
-    "stream_id": "318972594022",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy Oktober | !shakes | !prozis | !holy | !marleyspoon| !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-10-12T07:52:26Z",
-    "published_at": "2026-10-12T07:52:26Z",
-    "url": "https://www.twitch.tv/videos/2898653142",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d07420a9079decebccfd_zornkoenigin_318972594022_1791791541//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 1799,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h14m10s",
     "muted_segments": null
   }
 ]
