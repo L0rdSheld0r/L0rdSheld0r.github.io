@@ -1,7 +1,7 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 491,
+    "followers": 492,
     "videos": [
   {
     "id": "2902460713",
@@ -16,7 +16,7 @@
     "url": "https://www.twitch.tv/videos/2902460713",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/226285fb32fb6cf5a553_l0rdsheld0r_319026684390_1792174371//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 77,
+    "view_count": 81,
     "language": "de",
     "type": "archive",
     "duration": "3h29m33s",
@@ -64,8 +64,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26288,
+    "followers": 26557,
     "videos": [
+  {
+    "id": "2911172736",
+    "stream_id": "319093140069",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Oktober | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-10-26T08:42:16Z",
+    "published_at": "2026-10-26T08:42:16Z",
+    "url": "https://www.twitch.tv/videos/2911172736",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/40da1c91febb9204a8f7_zornkoenigin_319093140069_1793004131//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 7,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h18m40s",
+    "muted_segments": null
+  },
   {
     "id": "2908355708",
     "stream_id": "318912967911",
@@ -79,7 +98,7 @@
     "url": "https://www.twitch.tv/videos/2908355708",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/1d90254edc78491fc82a_zornkoenigin_318912967911_1792743757//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1836,
+    "view_count": 1837,
     "language": "de",
     "type": "archive",
     "duration": "2h30m40s",
@@ -98,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2905748368",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6ac060961ca56f183247_zornkoenigin_319073184230_1792482444//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2267,
+    "view_count": 2268,
     "language": "de",
     "type": "archive",
     "duration": "3h19m30s",
@@ -140,25 +159,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h56m40s",
-    "muted_segments": null
-  },
-  {
-    "id": "2902107560",
-    "stream_id": "318827258087",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Happy Oktober | !shakes | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato #Townfall",
-    "description": "",
-    "created_at": "2026-10-16T07:55:23Z",
-    "published_at": "2026-10-16T07:55:23Z",
-    "url": "https://www.twitch.tv/videos/2902107560",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/bcc17673fd379d9104dc_zornkoenigin_318827258087_1792137318//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2026,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h22m50s",
     "muted_segments": null
   }
 ]
