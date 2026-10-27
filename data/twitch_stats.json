@@ -1,8 +1,46 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 492,
+    "followers": 493,
     "videos": [
+  {
+    "id": "2910734914",
+    "stream_id": "319146516582",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "Chill Night Moon Sweeper || 2026#26 !socials",
+    "description": "",
+    "created_at": "2026-10-25T19:54:14Z",
+    "published_at": "2026-10-25T19:54:14Z",
+    "url": "https://www.twitch.tv/videos/2910734914",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/03b3a9bfdae3ec50abae_l0rdsheld0r_319146516582_1792958049//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 38,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h28m0s",
+    "muted_segments": null
+  },
+  {
+    "id": "2909631262",
+    "stream_id": "318932965479",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "Aniimo Abend|| 2026#24 !socials",
+    "description": "",
+    "created_at": "2026-10-24T17:19:12Z",
+    "published_at": "2026-10-24T17:19:12Z",
+    "url": "https://www.twitch.tv/videos/2909631262",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/48e54cec0f634445c4d9_l0rdsheld0r_318932965479_1792862347//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 310,
+    "language": "de",
+    "type": "archive",
+    "duration": "10h29m28s",
+    "muted_segments": null
+  },
   {
     "id": "2902460713",
     "stream_id": "319026684390",
@@ -64,8 +102,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26557,
+    "followers": 26931,
     "videos": [
+  {
+    "id": "2912250686",
+    "stream_id": "319108412773",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Happy Oktober | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato #tropico7",
+    "description": "",
+    "created_at": "2026-10-27T16:06:12Z",
+    "published_at": "2026-10-27T16:06:12Z",
+    "url": "https://www.twitch.tv/videos/2912250686",
+    "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+    "viewable": "public",
+    "view_count": 0,
+    "language": "de",
+    "type": "archive",
+    "duration": "1h44m25s",
+    "muted_segments": null
+  },
   {
     "id": "2911172736",
     "stream_id": "319093140069",
@@ -79,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2911172736",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/40da1c91febb9204a8f7_zornkoenigin_319093140069_1793004131//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 7,
+    "view_count": 2261,
     "language": "de",
     "type": "archive",
     "duration": "3h18m40s",
@@ -140,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h19m10s",
-    "muted_segments": null
-  },
-  {
-    "id": "2904041563",
-    "stream_id": "319048376550",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Creator Flohmarkt| !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-10-18T09:28:27Z",
-    "published_at": "2026-10-18T09:28:27Z",
-    "url": "https://www.twitch.tv/videos/2904041563",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/e5aac5b8b1fbd46f02a7_zornkoenigin_319048376550_1792315702//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2604,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h56m40s",
     "muted_segments": null
   }
 ]
