@@ -1,8 +1,27 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 496,
+    "followers": 497,
     "videos": [
+  {
+    "id": "2913215234",
+    "stream_id": "319180074598",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "Houston, wir haben ein Stuabproblem || Moon Sweepers  || 2026#29 !socials",
+    "description": "",
+    "created_at": "2026-10-28T17:57:51Z",
+    "published_at": "2026-10-28T17:57:51Z",
+    "url": "https://www.twitch.tv/videos/2913215234",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0c735ba4e55af68acc9a_l0rdsheld0r_319180074598_1793210265//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 32,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h26m36s",
+    "muted_segments": null
+  },
   {
     "id": "2912268766",
     "stream_id": "319167200998",
@@ -78,31 +97,12 @@
     "type": "archive",
     "duration": "4h28m0s",
     "muted_segments": null
-  },
-  {
-    "id": "2909631262",
-    "stream_id": "318932965479",
-    "user_id": "39733528",
-    "user_login": "l0rdsheld0r",
-    "user_name": "L0rdSheld0r",
-    "title": "Aniimo Abend|| 2026#24 !socials",
-    "description": "",
-    "created_at": "2026-10-24T17:19:12Z",
-    "published_at": "2026-10-24T17:19:12Z",
-    "url": "https://www.twitch.tv/videos/2909631262",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/48e54cec0f634445c4d9_l0rdsheld0r_318932965479_1792862347//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 310,
-    "language": "de",
-    "type": "archive",
-    "duration": "10h29m28s",
-    "muted_segments": null
   }
 ]
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26939,
+    "followers": 26940,
     "videos": [
   {
     "id": "2912920006",
@@ -117,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2912920006",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d6fbc8ff8a7b46acadf2_zornkoenigin_318979715559_1793178536//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 10,
+    "view_count": 2487,
     "language": "de",
     "type": "archive",
     "duration": "3h20m20s",
@@ -136,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2912250686",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/498a8a97b56065bd2590_zornkoenigin_319108412773_1793117167//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2340,
+    "view_count": 2341,
     "language": "de",
     "type": "archive",
     "duration": "2h28m50s",
@@ -155,7 +155,7 @@
     "url": "https://www.twitch.tv/videos/2911172736",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/40da1c91febb9204a8f7_zornkoenigin_319093140069_1793004131//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2261,
+    "view_count": 2262,
     "language": "de",
     "type": "archive",
     "duration": "3h18m40s",
