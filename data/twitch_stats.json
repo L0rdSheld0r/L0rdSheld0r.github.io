@@ -1,8 +1,27 @@
 { "talents": [
 {
     "username": "L0rdSheld0r",
-    "followers": 497,
+    "followers": 499,
     "videos": [
+  {
+    "id": "2914181566",
+    "stream_id": "319193703142",
+    "user_id": "39733528",
+    "user_login": "l0rdsheld0r",
+    "user_name": "L0rdSheld0r",
+    "title": "100% ? Let's finish this! Moon Sweepers  || 2026#30 !socials",
+    "description": "",
+    "created_at": "2026-10-29T19:33:51Z",
+    "published_at": "2026-10-29T19:33:51Z",
+    "url": "https://www.twitch.tv/videos/2914181566",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/7ac420cc75bdb6147153_l0rdsheld0r_319193703142_1793302426//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 65,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h13m51s",
+    "muted_segments": null
+  },
   {
     "id": "2913215234",
     "stream_id": "319180074598",
@@ -16,7 +35,7 @@
     "url": "https://www.twitch.tv/videos/2913215234",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/0c735ba4e55af68acc9a_l0rdsheld0r_319180074598_1793210265//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 32,
+    "view_count": 34,
     "language": "de",
     "type": "archive",
     "duration": "3h26m36s",
@@ -78,31 +97,12 @@
     "type": "archive",
     "duration": "4h21m1s",
     "muted_segments": null
-  },
-  {
-    "id": "2910734914",
-    "stream_id": "319146516582",
-    "user_id": "39733528",
-    "user_login": "l0rdsheld0r",
-    "user_name": "L0rdSheld0r",
-    "title": "Chill Night Moon Sweeper || 2026#26 !socials",
-    "description": "",
-    "created_at": "2026-10-25T19:54:14Z",
-    "published_at": "2026-10-25T19:54:14Z",
-    "url": "https://www.twitch.tv/videos/2910734914",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/03b3a9bfdae3ec50abae_l0rdsheld0r_319146516582_1792958049//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 41,
-    "language": "de",
-    "type": "archive",
-    "duration": "4h28m0s",
-    "muted_segments": null
   }
 ]
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26940,
+    "followers": 26938,
     "videos": [
   {
     "id": "2912920006",
@@ -117,7 +117,7 @@
     "url": "https://www.twitch.tv/videos/2912920006",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/d6fbc8ff8a7b46acadf2_zornkoenigin_318979715559_1793178536//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2487,
+    "view_count": 2492,
     "language": "de",
     "type": "archive",
     "duration": "3h20m20s",
@@ -174,7 +174,7 @@
     "url": "https://www.twitch.tv/videos/2908355708",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/1d90254edc78491fc82a_zornkoenigin_318912967911_1792743757//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 1837,
+    "view_count": 1838,
     "language": "de",
     "type": "archive",
     "duration": "2h30m40s",
@@ -193,7 +193,7 @@
     "url": "https://www.twitch.tv/videos/2905748368",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/6ac060961ca56f183247_zornkoenigin_319073184230_1792482444//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 2268,
+    "view_count": 2269,
     "language": "de",
     "type": "archive",
     "duration": "3h19m30s",
