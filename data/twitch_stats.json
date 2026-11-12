@@ -102,8 +102,27 @@
   },
 {
     "username": "Zornkoenigin",
-    "followers": 26960,
+    "followers": 26966,
     "videos": [
+  {
+    "id": "2926564893",
+    "stream_id": "319367054822",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Selbsthilfegruppe für anonyme Forever Süchtige | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-11-12T07:43:23Z",
+    "published_at": "2026-11-12T07:43:23Z",
+    "url": "https://www.twitch.tv/videos/2926564893",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/288a52e86763852c53ff_zornkoenigin_319367054822_1794469398//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 4,
+    "language": "de",
+    "type": "archive",
+    "duration": "4h9m50s",
+    "muted_segments": null
+  },
   {
     "id": "2925638807",
     "stream_id": "319283816677",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2925638807",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/dd2d6945c4881fe7adf8_zornkoenigin_319283816677_1794381086//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 3,
+    "view_count": 3855,
     "language": "de",
     "type": "archive",
     "duration": "5h5m0s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "3h54m10s",
-    "muted_segments": null
-  },
-  {
-    "id": "2922072163",
-    "stream_id": "319237538917",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Selbsthilfegruppe für anonyme Forever Süchtige | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-11-07T12:53:28Z",
-    "published_at": "2026-11-07T12:53:28Z",
-    "url": "https://www.twitch.tv/videos/2922072163",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/70f7a3c6a6a2dd56dd47_zornkoenigin_319237538917_1794056003//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 7858,
-    "language": "de",
-    "type": "archive",
-    "duration": "11h51m40s",
     "muted_segments": null
   }
 ]
