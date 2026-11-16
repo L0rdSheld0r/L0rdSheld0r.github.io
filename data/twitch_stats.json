@@ -105,6 +105,25 @@
     "followers": 26962,
     "videos": [
   {
+    "id": "2930370371",
+    "stream_id": "319231457255",
+    "user_id": "178472108",
+    "user_login": "zornkoenigin",
+    "user_name": "Zornkoenigin",
+    "title": "Selbsthilfegruppe für anonyme Forever Süchtige | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
+    "description": "",
+    "created_at": "2026-11-16T08:33:48Z",
+    "published_at": "2026-11-16T08:33:48Z",
+    "url": "https://www.twitch.tv/videos/2930370371",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/4a8bfaac50ec6fb334d3_zornkoenigin_319231457255_1794818023//thumb/thumb0-%{width}x%{height}.jpg",
+    "viewable": "public",
+    "view_count": 2733,
+    "language": "de",
+    "type": "archive",
+    "duration": "3h30m10s",
+    "muted_segments": null
+  },
+  {
     "id": "2927864699",
     "stream_id": "319314537189",
     "user_id": "178472108",
@@ -117,7 +136,7 @@
     "url": "https://www.twitch.tv/videos/2927864699",
     "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/97d2029d3cd4fbee4dc8_zornkoenigin_319314537189_1794598812//thumb/thumb0-%{width}x%{height}.jpg",
     "viewable": "public",
-    "view_count": 432,
+    "view_count": 433,
     "language": "de",
     "type": "archive",
     "duration": "3h7m0s",
@@ -178,25 +197,6 @@
     "language": "de",
     "type": "archive",
     "duration": "5h5m0s",
-    "muted_segments": null
-  },
-  {
-    "id": "2924769762",
-    "stream_id": "319155432679",
-    "user_id": "178472108",
-    "user_login": "zornkoenigin",
-    "user_name": "Zornkoenigin",
-    "title": "Selbsthilfegruppe für anonyme Forever Süchtige | !prozis | !holy | !marleyspoon | !ankerkraut | !hitech | !elgato",
-    "description": "",
-    "created_at": "2026-11-10T08:30:16Z",
-    "published_at": "2026-11-10T08:30:16Z",
-    "url": "https://www.twitch.tv/videos/2924769762",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/f0b178f70d6c8790313c_zornkoenigin_319155432679_1794299410//thumb/thumb0-%{width}x%{height}.jpg",
-    "viewable": "public",
-    "view_count": 2852,
-    "language": "de",
-    "type": "archive",
-    "duration": "3h33m30s",
     "muted_segments": null
   }
 ]
